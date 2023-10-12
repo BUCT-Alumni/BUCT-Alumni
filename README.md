@@ -10,7 +10,7 @@
 
 | 称呼                              | 所在院系           | 介绍          | 联系方式      | 链接             |
 | --------------------------------- | ------------------ | ------------- | ------------- | ---------------- |
-| [李楠](https://github.com/spln13) | 19级信院计科 | 19buct 23ecnu | spln13@qq.com | spln13@github.io |
+| [李楠](https://github.com/spln13) | 19级信院计科 | 19buct 23ecnu | spln13@qq.com | https://spln13.github.io/ |
 |     虚位以待          |              |           |        |         |
 
 
