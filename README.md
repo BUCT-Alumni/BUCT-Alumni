@@ -10,7 +10,7 @@
 
 | 称呼                              | 所在院系           | 介绍          | 联系方式      | 链接             |
 | --------------------------------- | ------------------ | ------------- | ------------- | ---------------- |
-| [李楠](https://github.com/spln13) | 19级信院计科 | 19buct 23ecnu | spln13@qq.com | https://spln13.github.io/ |
+| [李楠](https://github.com/spln13) | 19级信院计科 | 23级ecnu软院专硕,欢迎联系! | spln13@qq.com | https://spln13.github.io/ |
 | [李腾飞](https://github.com/LetMeFly666) | 19级信院计科 | 19buct 23bupt | [qqmail-Tisfy](mailto:Tisfy@qq.com) | https://letmefly.xyz/ |
 | [陈柯舟](https://github.com/disloss)| 19级 信院计科 | 19buct 23ynu | 709003250@qq.com |[B站](https://space.bilibili.com/13840090)|
 |     虚位以待          |              |           |        |         |
