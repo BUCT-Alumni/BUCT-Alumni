@@ -1,16 +1,24 @@
-### Hi there 👋
+# BUCT校友墙🧑‍🎓👩‍🎓👨‍🎓
 
-<!--
-**BUCT-Alumni/BUCT-Alumni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+本仓库用于收录BUCT校友信息，升学或就业时可提供帮助。💕欢迎BUCTers加入!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+通过`fork`本仓库后修改`README.md`中表格并提交`pull request`便可将你的信息添加至以下列表中，管理员检查无敏感信息后`merge`。
+若不熟悉github操作，可发布`issue`写上自己的信息，管理员会将其录入。
+
+
+
+| 称呼                              | 所在院系           | 介绍          | 联系方式      | 链接             |
+| --------------------------------- | ------------------ | ------------- | ------------- | ---------------- |
+| [李楠](https://github.com/spln13) | 19级信院计科 | 19buct 23ecnu | spln13@qq.com | spln13@github.io |
+|     虚位以待          |              |           |        |         |
+
+
+
+## 相关说明
+- 欢迎点击`star`点赞
+- 点击`watch`可关注信息更新
+- 链接可填入 个人网站、微博、知乎、bilibili等
+- 校友可在issue中发布内推、求职、升学相关信息，但信息过期后请`close`掉
+- 不允许任何组织或个人将信息用于其他商业用途
+- 感谢[ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers)提供思路
