@@ -14,13 +14,13 @@
 | [李腾飞](https://github.com/LetMeFly666) | 19级信院计科 | 19buct 23bupt | [qqmail-Tisfy](mailto:Tisfy@qq.com) | https://letmefly.xyz/ |
 | [陈柯舟](https://github.com/disloss)| 19级 信院计科 | 19buct 23ynu | 709003250@qq.com |[B站](https://space.bilibili.com/13840090)|
 |  [侯泽坤](https://github.com/betacat-code) | 19级 信院计科 | 19buct 23seu  |  80582765@qq.com | [知乎](https://www.zhihu.com/people/hou-ze-kun-81) |
-
+| 虚位以待 | | | | |
 
 
 ## 相关说明
 - 欢迎点击`star`点赞
 - 点击`watch`可关注信息更新
-- 链接可填入 个人网站、微博、知乎、bilibili等
+- 链接可填入 个人网站、微博、知乎、bilibili、ins、linkedIn等
 - 校友可在issue中发布内推、求职、升学相关信息，但信息过期后请`close`掉
 - 不允许任何组织或个人将信息用于其他商业用途
 - 感谢[ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers)提供思路
