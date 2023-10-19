@@ -1,9 +1,3 @@
-<!--
- * @Author: LetMeFly
- * @Date: 2023-10-19 20:40:13
- * @LastEditors: LetMeFly
- * @LastEditTime: 2023-10-19 20:50:45
--->
 # BUCT校友墙🧑‍🎓👩‍🎓👨‍🎓
 
 本仓库用于收录BUCT校友信息，升学或就业时可提供帮助。💕欢迎BUCTers加入!
