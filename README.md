@@ -16,6 +16,15 @@
 |  [侯泽坤](https://github.com/betacat-code) | 19级 信院计科 | 19buct 23seu  |  80582765@qq.com | [知乎](https://www.zhihu.com/people/hou-ze-kun-81) |
 | 虚位以待 | | | | |
 
+## Contributors
+
+This project exists thanks to all the people who contribute.
+
+<a href="https://github.com/BUCT-Alumni/BUCT-Alumni/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BUCT-Alumni/BUCT-Alumni" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## 相关说明
 - 欢迎点击`star`点赞
