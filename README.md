@@ -1,3 +1,9 @@
+<!--
+ * @Author: LetMeFly
+ * @Date: 2023-10-19 20:40:13
+ * @LastEditors: LetMeFly
+ * @LastEditTime: 2023-10-19 20:50:45
+-->
 # BUCT校友墙🧑‍🎓👩‍🎓👨‍🎓
 
 本仓库用于收录BUCT校友信息，升学或就业时可提供帮助。💕欢迎BUCTers加入!
@@ -15,7 +21,15 @@
 | [陈柯舟](https://github.com/disloss)| 19级 信院计科 | 19buct 23ynu | 709003250@qq.com |[B站](https://space.bilibili.com/13840090)|
 |     虚位以待          |              |           |        |         |
 
+## Contributors
 
+This project exists thanks to all the people who contribute.
+
+<a href="https://github.com/BUCT-Alumni/BUCT-Alumni/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BUCT-Alumni/BUCT-Alumni" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## 相关说明
 - 欢迎点击`star`点赞
