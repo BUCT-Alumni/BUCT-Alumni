@@ -20,7 +20,7 @@
 | [李腾飞](https://github.com/LetMeFly666) | 19级信院计科 | 19buct 23bupt | [qqmail-Tisfy](mailto:Tisfy@qq.com) | https://letmefly.xyz/ |
 | [陈柯舟](https://github.com/disloss)| 19级 信院计科 | 19buct 23ynu | 709003250@qq.com |[B站](https://space.bilibili.com/13840090)|
 |  [侯泽坤](https://github.com/betacat-code) | 19级 信院计科 | 19buct 23seu  |  80582765@qq.com | [知乎](https://www.zhihu.com/people/hou-ze-kun-81) |
-|     虚位以待          |              |           |        |         |
+| 虚位以待 | | | | |
 
 ## Contributors
 
